@@ -1,8 +1,8 @@
-h2 align="center">👋 Olá, eu sou o Guilherme Medeiros Lima</h2>
+<h1 align="center">👋 Olá, eu sou o Guilherme Medeiros Lima</h1>
 
 ###
 
-<h6 align="center">💻 Desenvolvedor em formação | 16 anos | Focado em Full Stack</h6>
+<h4 align="center">💻 Desenvolvedor em formação | 16 anos | Focado em Full Stack</h4>
 
 ###
 
