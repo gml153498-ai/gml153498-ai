@@ -1,20 +1,17 @@
-<p align="left"># Olá, sou Guilherme Medeiros Lima 👋<br><br>## 🎓 Sobre Mim<br>- 💻 **Cursando Técnico em Desenvolvimento de Sistemas**<br>- 🏫 **Idade:** 16 anos<br>- 🧑‍💻 **Desenvolvedor apaixonado por tecnologia**<br><br>## 🛠️ Tecnologias que Uso</p>
+Olá! ================================================================== =================================================================== Técnico de desenvolvimento de sistemas | 16 anos | Focado no Full Stack ------------------------------------------------------------------ Atualmente curso Técnico em Desenvolvimento de Sistemas e já desenvolvi projetos utilizando HTML, CSS, JavaScript, MySQL e H2 . Tenho interesse em seguir carreira como desenvolvedor Full Stack, explorando tanto frontend quanto backend. Gosto de aprender coisas novas e estou sempre em busca de desafios que me ajudem a evoluir como programador. * 🌍 Moro em - 👨‍💻 Técnico em Desenvolvimento de Sistemas- 📚 Sempre aprendendo novas tecnologias - 📍 Baseado em Brasília - DF - 💻 Experiência prática em Java, Spring Boot, Frontend e Bancos de Dados. * 🖥️ Veja meu portfólio em [🌐 Quer conhecer mais sobre meus projetos?](http://https://gml153498-ai.github.io/portif-lio/) * ✉️ Você pode entrar em contato comigo em [@gml153498@gmail.com](mailto:@gml153498@gmail.com)
 
-###
+<p align="esquerda">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a> <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a> <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" altura="36" /></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a>
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
+### Redes sociais
+
+<p align="left"> </p> <a href="https://www.github.com/gml153498-ai" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/guilherme-medieros" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a>
+### Emblemas
+
+<b>Minhas estatísticas do GitHub</b>
+
+<a href="http://www.github.com/gml153498-ai"><img src="https://github-readme-stats.vercel.app/api?username=gml153498-ai&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Estatísticas do GitHub de gml153498-ai" /></a>
 
 ###
 
