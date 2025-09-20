@@ -1,24 +1,103 @@
-Olá! ================================================================== ===================================================================
-Técnico de desenvolvimento de sistemas | 16 anos | Focado no Full Stack ------------------------------------------------------------------
-Atualmente curso Técnico em Desenvolvimento de Sistemas e já desenvolvi projetos utilizando HTML, CSS, JavaScript, MySQL e H2 . Tenho interesse em seguir carreira como desenvolvedor Full Stack, explorando tanto frontend quanto backend. Gosto de aprender coisas novas e estou sempre em busca de desafios que me ajudem a evoluir como programador. 
-* 🌍 Sobre mim - 
-👨‍💻 Técnico em Desenvolvimento de Sistemas
-- 📚 Sempre aprendendo novas tecnologias
-  - 📍 Baseado em Brasília - DF
-   - 💻 Experiência prática em Java, Spring Boot, Frontend e Bancos de Dados. *
-    -  🖥️ Veja meu portfólio em
-    -  [🌐 Quer conhecer mais sobre meus projetos?](http://https://gml153498-ai.github.io/portif-lio/)
-    -  * ✉️ Você pode entrar em contato comigo em [@gml153498@gmail.com](mailto:@gml153498@gmail.com)
+h2 align="center">👋 Olá, eu sou o Guilherme Medeiros Lima</h2>
 
-<p align="esquerda">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a> <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a> <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" altura="36" /></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a>
-</p>
+###
 
-### Redes sociais
+<h6 align="center">💻 Desenvolvedor em formação | 16 anos | Focado em Full Stack</h6>
 
-<p align="left"> </p> <a href="https://www.github.com/gml153498-ai" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/guilherme-medieros" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a>
-### Emblemas
+###
 
-<b>Minhas estatísticas do GitHub</b>
+<p align="left">Atualmente curso Técnico em Desenvolvimento de Sistemas e já desenvolvi projetos utilizando HTML, CSS, JavaScript, MySQL e H2 . Tenho interesse em seguir carreira como desenvolvedor Full Stack, explorando tanto frontend quanto backend. Gosto de aprender coisas novas e estou sempre em busca de desafios que me ajudem a evoluir como programador.</p>
 
-<a href="http://www.github.com/gml153498-ai"><img src="https://github-readme-stats.vercel.app/api?username=gml153498-ai&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Estatísticas do GitHub de gml153498-ai" /></a>
+###
+
+<h3 align="left">👨‍💻 Sobre Mim</h3>
+
+###
+
+<p align="left">🎓 Estudante de tecnologia, cursando o ensino médio (manhã e noite).<br>💻 Experiência prática em Java, Spring Boot, Frontend bancos de dados.<br>🌐 Interesse em atuar como Desenvolvedor Full Stack, criando soluções completas, funcionais e inovadoras.<br>📂 Já desenvolvi projetos como sistemas de e-commerce, CRUDs e integração de APIs, colocando em prática conhecimentos de backend e frontend.<br>📍 Brasília - DF</p>
+
+###
+
+<br clear="both">
+
+<h3 align="center">🚀 Habilidades</h3>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h2 align="left">📌 Portfólio</h2>
+
+###
+
+<p align="left">💻 Meu trabalho, minhas soluções. Confira meu portfólio!<br>https://gml153498-ai.github.io/portif-lio/</p>
+
+###
+
+<br clear="both">
+
+<h2 align="left">🎓 Formação Acadêmica</h2>
+
+###
+
+<p align="left">🎓Ensino Médio Técnico em Desenvolvimento de Sistemas – Cem 03<br>Turno: manhã e noite<br><br>💻Foco em programação, banco de dados, desenvolvimento web e boas práticas de software<br><br>🚀Experiência prática com Java, Spring Boot, HTML, CSS, JavaScript e MySQL</p>
+
+###
+
+<h2 align="left">🗣️ Idiomas</h2>
+
+###
+
+<p align="left">🇧🇷 Português: Nativo<br><br>🇺🇸 Inglês: Básico/Intermediário (em progresso)</p>
+
+###
+
+<h2 align="left">📌Contatos</h2>
+
+###
+
+<p align="left">📧 Email: gml1534@gmail.com<br>💼 LinkedIn: www.linkedin.com/in/guilherme-medeiros-b0ab29385</p>
+
+###
+
+<h2 align="left">🌐 Minhas Redes</h2>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gml153498-ai&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gml153498-ai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
