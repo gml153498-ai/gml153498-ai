@@ -10,17 +10,19 @@
 
 ###
 
+<br clear="both">
+
 <h3 align="left">👨‍💻 Sobre Mim</h3>
 
 ###
 
-<p align="left">🎓 Estudante de tecnologia, cursando o ensino médio (manhã e noite).<br>💻 Experiência prática em Java, Spring Boot, Frontend bancos de dados.<br>🌐 Interesse em atuar como Desenvolvedor Full Stack, criando soluções completas, funcionais e inovadoras.<br>📂 Já desenvolvi projetos como sistemas de e-commerce, CRUDs e integração de APIs, colocando em prática conhecimentos de backend e frontend.<br>📍 Brasília - DF</p>
+<p align="left">🎓 Estudante de tecnologia, cursando o ensino médio (manhã e noite).<br>💻 Experiência prática em Java, Spring Boot, Frontend bancos de dados.<br>🌐 Interesse em atuar como Desenvolvedor Full Stack, criando soluções completas, funcionais e inovadoras.<br>📂 Já desenvolvi projetos como sistemas de e-commerce, CRUDs e integração de APIs, colocando em prática conhecimentos de backend e frontend.<br>💻 Experiência prática em autenticação e segurança de sistemas, utilizando Spring Security, JWT e boas práticas de proteção de APIs REST."<br>📍 Brasília - DF</p>
 
 ###
 
 <br clear="both">
 
-<h3 align="center">🚀 Habilidades</h3>
+<h2 align="center">🚀 Habilidades</h2>
 
 ###
 
