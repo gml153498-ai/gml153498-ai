@@ -7,12 +7,9 @@
 ###
 
 <p align="left">Atualmente curso Técnico em Desenvolvimento de Sistemas e já desenvolvi projetos utilizando HTML, CSS, JavaScript, MySQL e H2 . Tenho interesse em seguir carreira como desenvolvedor Full Stack, explorando tanto frontend quanto backend. Gosto de aprender coisas novas e estou sempre em busca de desafios que me ajudem a evoluir como programador.</p>
-
 ###
 <br clear="both">
-
 <h3 align="left">👨‍💻 Sobre Mim</h3>
-
 ###
 <p align="left">🎓 Estudante de tecnologia, cursando o ensino médio (manhã e noite).<br>💻 Experiência prática em Java, Spring Boot, Frontend bancos de dados.<br>🌐 Interesse em atuar como Desenvolvedor Full Stack, criando soluções completas, funcionais e inovadoras.<br>📂 Já desenvolvi projetos como sistemas de e-commerce, CRUDs e integração de APIs, colocando em prática conhecimentos de backend e frontend.<br>💻 Experiência prática em autenticação e segurança de sistemas, utilizando Spring Security, JWT e boas práticas de proteção de APIs REST.<br>📍 Brasília - DF</p>
 
