@@ -7,6 +7,7 @@
 ###
 
 <p align="left">Atualmente curso Técnico em Desenvolvimento de Sistemas e já desenvolvi projetos utilizando HTML, CSS, JavaScript, MySQL e H2 . Tenho interesse em seguir carreira como desenvolvedor Full Stack, explorando tanto frontend quanto backend. Gosto de aprender coisas novas e estou sempre em busca de desafios que me ajudem a evoluir como programador.</p>
+
 ###
 
 <br clear="both">
